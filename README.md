@@ -1,3 +1,8 @@
+---
+title: Voice Emotion Recognition
+sdk: gradio
+app_file: app/app.py
+---
 
 # Voice Emotion Recognition — CNN project
 
